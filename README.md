@@ -1,7 +1,7 @@
-- Hi, I’m M KARTHIK PAI...
-- Thanks for visiting my GITHUB Profile...
+- Hi, I’m M KARTHIK PAI
+- Thanks for visiting my GITHUB Profile.
 - I’m interested in Frontend Development, UI/UX, Programming, Teaching, and continuous learning.
-- I've completed my BE/BTech in Computer Science and Engineering...
+- I've completed my BE/BTech in Computer Science and Engineering.
 - Currently working as a Frontend Developer with 2 years of experience building and delivering responsive, user-focused web applications using React, JavaScript, HTML, and CSS. Skilled in developing dynamic UIs, reusable components, and optimized cross-device designs. Passionate about clean code, collaboration, and continuous learning to deliver high-performance, user-centric solutions aligned with business goals.
 <!---
 mkarthikpai/mkarthikpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
