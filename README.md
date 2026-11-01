@@ -6,9 +6,9 @@ Thanks for visiting my GitHub profile!
 
 ## 🚀 About Me
 
-- 🎯 Frontend Developer with 3+ years of experience
+- 🎯 Frontend Developer with 4+ years of experience
 - 💡 Passionate about Frontend Development, UI/UX, Programming, and continuous learning
-- 🎓 Completed my B.E/B.Tech in Computer Science and Engineering
+- 🎓 Completed my B.E/B Tech in Computer Science and Engineering
 - 🧠 Focused on building clean, scalable, and user-friendly applications
 
 ---
